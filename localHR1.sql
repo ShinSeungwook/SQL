@@ -1,0 +1,1 @@
+SELECT employee_id, salary, department_id FROM employees ORDER BY salary DESC, employee_id ASC;
